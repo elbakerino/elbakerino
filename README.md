@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Reach me e.g. in the [UI-Schema Slack](https://ui-schema.slack.com/join/shared_invite/zt-smbsybk5-dFIRLEPCJerzDwtycaA71w)
+📫 Reach me in the [UI-Schema Slack](https://ui-schema.slack.com/join/shared_invite/zt-smbsybk5-dFIRLEPCJerzDwtycaA71w) or book me at [bemit.eu](https://bemit.eu)
 
 Trying out and experimenting in a few topics, those are the most mature or interesting repos:
 
@@ -36,7 +36,7 @@ Trying out and experimenting in a few topics, those are the most mature or inter
 
 ## PHP
 
-- [Satellite](https://github.com/bemit/satellite-app), full PSR compliant base framework with annotations for cli and routes
+- [Satellite](https://github.com/bemit/satellite-app), PSR compliant middleware framework with annotations for cli and routes
 - [Annotations Util](https://github.com/bemit/orbiter-annotations-util), helper to traverse PHP code by PHP code and prebuild cache files with found annotations
 
 ## ...
@@ -45,5 +45,5 @@ and flying around:
 
 - [DynamoDB Visualizer](https://github.com/elbakerino/dynamodb-visualizer), a React PWA and PHP APIs to visualize and design DynamoDB tables
 - [PHP DynamoDB Service](https://github.com/bemit/php-service-dynamodb), for ease of DI, includes data <> item converters with nested map and list support
-- [lerna-packer](https://github.com/elbakerino/lerna-packer), typescript/react multi-app and package build handling for lerna monorepo, to create ready to publish npm packages
+- [lerna-packer](https://github.com/elbakerino/lerna-packer), build handling for lerna monorepo to make typescript/react apps, packages and node backends, packages are ready-to-publish to npm
 - [icon1](https://github.com/bemit/icon1/), open source icon api + icon picker
